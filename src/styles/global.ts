@@ -8,8 +8,8 @@ const globalStyle = createGlobalStyle`
     }
 
     button {
-        back
+        bac
     }
 `
-
+;
 export default globalStyle;
