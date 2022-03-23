@@ -1,14 +1,15 @@
-import { createGlobalStyle } from 'styled-components'
+import {createGlobalStyle} from 'styled-components'
 
 const globalStyle = createGlobalStyle`
     * {
-        padding: 0;
-        margin:0;
+        padding: 50px;
+        margin: 50px;
         box-sizing: border-box;
+        background-color: #00eeff;
     }
 
     button {
-        bac
+        background-color: #0000;
     }
 `
 ;
